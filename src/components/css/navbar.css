@@ -1,0 +1,37 @@
+.navbar {
+    background-color: inherit;
+}
+
+.navbar-container {
+    margin-top: 30px;
+}
+
+.nav-brand-text {
+    margin-left: 10px;
+}
+
+.navbar-nav {
+    margin-left: 572px;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+    color: #fff;
+}
+
+.nav-brand-image {
+    color: #fff;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.nav-link{
+    color: #fff;
+    font-weight: 500;
+}
+
+.icon {
+    margin-left: 181px;
+}
